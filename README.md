@@ -15,5 +15,6 @@ Hyper Parameters:
 9) LORA_DROPOUT = 0.05
 
 Credit for Original Model: [Qiyuan Ge](https://huggingface.co/RootYuan)
+
 Fine Tuned Model: [RyanAir/Alpaca-350M-Fine-Tuned](https://huggingface.co/RyanAir/Alpaca-350M-Fine-Tuned) (HuggingFace)
 
