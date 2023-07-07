@@ -16,5 +16,5 @@ Hyper Parameters:
 
 Credit for Original Model: [Qiyuan Ge](https://huggingface.co/RootYuan)
 
-Fine Tuned Model: [RyanAir/Alpaca-350M-Fine-Tuned](https://huggingface.co/RyanAir/Alpaca-350M-Fine-Tuned) (HuggingFace)
+Fine-Tuned Model: [RyanAir/Alpaca-350M-Fine-Tuned](https://huggingface.co/RyanAir/Alpaca-350M-Fine-Tuned) (HuggingFace)
 
